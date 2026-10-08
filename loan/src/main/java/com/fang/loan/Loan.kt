@@ -21,6 +21,7 @@ data class Loan(
                 Loan(name = "安泰", amount = 2029, remain = 12, day = 18),
                 Loan(name = "國泰", amount = 3696, remain = 13, day = 17),
                 Loan(name = "玉山", amount = 1056, remain = 13, day = 13),
+                Loan(name = "連線", amount = 1888, remain = 36, day = 13),
                 Loan(name = "連線", amount = 15672, remain = 117, day = 13),
                 Loan(name = "樂天", amount = 1980, remain = 119, day = 8),
             )

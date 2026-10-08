@@ -160,6 +160,9 @@ private fun LoanContent(
                             )
                         }
                     }
+                HorizontalDivider(Modifier.padding(vertical = 4.dp))
+                ItemText("11,490")
+                ItemText("17,560")
             }
         } ?: Box(Modifier.fillMaxSize()) {
         Text(
